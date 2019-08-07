@@ -1,3 +1,27 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP HLK-PM03
+D Compact AC/DC board mount power module 3W 3V3
+K AC/DC module power supply
+F http://www.hlktech.net/product_detail.php?ProId=59
+$ENDCMP
+#
+$CMP HLK-PM12
+D Compact AC/DC board mount power module 3W 12V
+K AC/DC module power supply
+F http://www.hlktech.net/product_detail.php?ProId=56
+$ENDCMP
+#
+$CMP HLK-PM24
+D Compact AC/DC board mount power module 3W 24V
+K AC/DC module power supply
+F http://www.hlktech.net/product_detail.php?ProId=81
+$ENDCMP
+#
+$CMP LH20-10B12
+D Compact AC/DC board mount power module 12V/1.6A
+K AC/DC module power supply
+F https://datasheet.lcsc.com/szlcsc/MORNSUN-Guangzhou-S-T-LH20-10B12_C91787.pdf
+$ENDCMP
+#
 #End Doc Library
