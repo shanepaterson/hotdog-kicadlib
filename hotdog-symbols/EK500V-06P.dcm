@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EK500V-06P
+D Screw terminal PluginP=5mm RoHS
+K
+F https://datasheet.lcsc.com/szlcsc/Dinkle-EK500V-06P_C182806.pdf
+$ENDCMP
+#
+#End Doc Library
