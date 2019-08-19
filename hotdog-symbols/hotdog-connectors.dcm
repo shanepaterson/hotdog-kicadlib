@@ -168,6 +168,11 @@ K Voltage Regulator 500mA Positive
 F http://www.fairchildsemi.com/ds/LM/LM78M05.pdf
 $ENDCMP
 #
+$CMP NMJ6HCD2
+D Phone Connectors STEREO CHROME NOSE
+F http://www.neutrik.de/zoolu-website/media/download/2890/Strichzeichnung+NMJ6HCD2
+$ENDCMP
+#
 $CMP SPX2920U-3.3_TO220
 D 400mA Low drop-out regulator, Fixed Output 3.3V, TO-220
 K REGULATOR LDO 3.3V
@@ -178,6 +183,12 @@ $CMP SPX2920U-5.0_TO220
 D 400mA Low drop-out regulator, Fixed Output 5V, TO-220
 K REGULATOR LDO 5V
 F http://www.zlgmcu.com/Sipex/LDO/PDF/spx2920.pdf
+$ENDCMP
+#
+$CMP SSSS920600
+D 2 slide switches with 3 positions
+K Slide switch
+F https://datasheet.lcsc.com/szlcsc/ALPS-Electric-SSSS920600_C231743.pdf
 $ENDCMP
 #
 $CMP SW_Rotary1x3

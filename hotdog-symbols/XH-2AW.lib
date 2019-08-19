@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model XH-2AW
+#/2369833/158022/2.43/2/3/Connector
+DEF XH-2AW J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "XH-2AW" 650 200 50 H V L CNN
+F2 "SHDR2W35P0X250_1X2_750X580X700P" 650 100 50 H I L CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Boom-Precision-Elec-XH-2AW_C33132.pdf" 650 0 50 H I L CNN
+F4 "Wire To Board / Wire To Wire Connector Plugin RoHS" 650 -100 50 H I L CNN "Description"
+F5 "7" 650 -200 50 H I L CNN "Height"
+F6 "Boom Precision Electric" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "XH-2AW" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 650 -700 50 H I L CNN "RS Part Number"
+F11 "" 650 -800 50 H I L CNN "RS Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 B
+X 2 2 0 -100 200 R 50 50 0 0 B
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
